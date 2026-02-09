@@ -82,9 +82,8 @@ This repository is organized to keep data, code, and results separate and easy t
 │
 ├── outputs/
 │   ├── ndvi_timeseries.csv      # Extracted data for statistical analysis
-│   ├── ndvi_plot.png            # Final NDVI growth curve visualization
-│   └── ndvi_composite.tif       # Sample processed satellite image (NetCDF/GeoTIFF)
-│
+│   └── ndvi_plot.png            # Final NDVI growth curve visualization
+│   
 ├── requirements.txt             # List of Python dependencies
 └── README.md                    # Project documentation (this file)
 ```
