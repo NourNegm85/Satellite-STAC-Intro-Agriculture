@@ -115,8 +115,9 @@ pip install -r requirements.txt
 ```
 ---
 3️⃣ Run the Notebook
+```bash
 jupyter notebook
-
+```
 ---
 You can modify:
 
