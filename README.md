@@ -106,8 +106,11 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/NourNegm85/Satellite-STAC-Intro-Agriculture.git
+```
 
 Install dependencies:
+
+```bash
 pip install -r requirements.txt
 ```
 ---
