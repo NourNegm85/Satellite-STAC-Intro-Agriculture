@@ -75,15 +75,11 @@ This repository is organized to keep data, code, and results separate and easy t
 ```text
 .
 ├── aoi/
-│   └── study_area.geojson      # Area of Interest: Spatial bounds for the query
+│   └── aoi.geojson      # Area of Interest: Spatial bounds for the query
 │
 ├── notebooks/
 │   └── 01_stac_ndvi_intro.ipynb # Main Tutorial: Step-by-step STAC & NDVI code
 │
-├── outputs/
-│   ├── ndvi_timeseries.csv      # Extracted data for statistical analysis
-│   └── ndvi_plot.png            # Final NDVI growth curve visualization
-│   
 ├── requirements.txt             # List of Python dependencies
 └── README.md                    # Project documentation (this file)
 ```
