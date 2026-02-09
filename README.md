@@ -128,7 +128,9 @@ Date range
 Cloud cover threshold
 
 Vegetation index calculation
+
 ---
+
 Data & Documentation References
 
 STAC Specification: https://stacspec.org
@@ -149,6 +151,7 @@ Applying satellite data and open-source geospatial tools for agricultural and en
 This repository is part of an ongoing effort to document practical, reproducible workflows that bridge academic research and real-world applications.
 
 ---
+
 ⭐ Support
 
 If you find this repository useful:
