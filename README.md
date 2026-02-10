@@ -1,7 +1,7 @@
 # Satellite Data Analysis with Python  
 ## Introduction to STAC (SpatioTemporal Asset Catalog) & NDVI Time-Series
 
-[![YouTube](https://img.shields.io/badge/YouTube-dr.nour%20negm-red?style=flat&logo=youtube)](https://youtube.com/@dr.nournegm)
+[![YouTube](https://img.shields.io/badge/YouTube-dr.nour%20negm-red?style=flat&logo=youtube)](https://shorturl.at/5C7vk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nour-ibrahim/)
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -89,7 +89,7 @@ This repository is organized to keep data, code, and results separate and easy t
 
 ### 1️⃣ Watch the Tutorial Video
 📺 **YouTube:**  
-👉 *[LINK]*
+👉 *[[LINK](https://shorturl.at/5C7vk)]*
 
 The notebook follows the video step by step.
 
